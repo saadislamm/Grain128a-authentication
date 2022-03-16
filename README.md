@@ -8,4 +8,4 @@ https://lup.lub.lu.se/search/files/3454246/2296485.pdf
 
 ## How to run
 
-Execute "Grain128a.m" in MATLAB and verify the results with the ones provided in the paper.
+Execute "Grain128a.m" in MATLAB and verify the test vectors provided in the paper.
